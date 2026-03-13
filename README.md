@@ -1,5 +1,7 @@
 # Carenuity-C3-Mini-ENS160 Air Quality Sensor
 
+![image alt](https://github.com/0mollo/Carenuity-C3-Mini-ENS160/blob/main/ENS160%20Top%20View.png) ![image alt]()
+
 Carenuity ENS160 air quality sensor piggyback board for ESP32-C3 Mini measuring VOC, eCO₂ and AQI via I²C
 
 
