@@ -64,6 +64,11 @@ Version: **V1.3**
 - Environmental IoT nodes
 - Smart home systems
 
+## ScioSence Support files
+
+[ScioSense Datasheet](https://www.sciosense.com/wp-content/uploads/2023/12/ENS160-Datasheet.pdf)
+[Further Information about the ENS16X Family](https://www.sciosense.com/ens16x-digital-metal-oxide-multi-gas-sensor-family/)
+
 Example code:
 
 ```cpp
